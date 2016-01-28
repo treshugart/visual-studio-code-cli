@@ -1,6 +1,6 @@
 {
   "name": "visual-studio-code-cli",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "\"Opens Visual Studio Code from the command line.\"",
   "main": "index.js",
   "scripts": {

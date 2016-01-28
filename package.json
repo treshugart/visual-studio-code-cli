@@ -1,0 +1,21 @@
+{
+  "name": "visual-studio-code-cli",
+  "version": "1.0.0",
+  "description": "\"Opens Visual Studio Code from the command line.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "visual",
+    "studio",
+    "code",
+    "cli"
+  ],
+  "author": "Trey Shugart <treshugart@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "bin": {
+    "code": "./index.js"
+  }
+}
